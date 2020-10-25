@@ -4,7 +4,6 @@ php:
     - 7.3
     
 deploy:
-  provider: pages
   npm run build && gh-pages -d src
   on:
     branch: master
