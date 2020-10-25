@@ -5,7 +5,6 @@ php:
     
 deploy:
   provider: pages
-  skip_cleanup: true
   npm run build && gh-pages -d src
   on:
     branch: master
