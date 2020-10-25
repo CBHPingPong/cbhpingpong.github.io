@@ -3,5 +3,12 @@ php:
     - 7.2
     - 7.3
     
+deploy:
+  provider: pages
+  skip_cleanup: true
+  npm run build && gh-pages -d src
+  on:
+    branch: master
+    
 notifications:
   email: tunnaduong@gmail.com
