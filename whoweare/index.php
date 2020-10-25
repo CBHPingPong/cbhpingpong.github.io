@@ -70,9 +70,20 @@
 
 		</p>
 		<hr>
-		<h3>Các thành viên sáng lập:</h3>
+		<h3>Các thành viên:</h3>
 		<p>Dương Tùng Anh - 12 Nga (Chủ tịch CLB)<br>
-			Phạm Thành - 11 Lý (Phó Chủ tịch)
+			Lương Nhân Vượng - 12 Sử Địa<br>
+			Nguyễn Trung Kiên - 12 Sử Địa<br>
+			Trần Hiếu Trung - 10 Nga 
+			<br>
+			Lê Mai Quỳnh - 11 Anh<br>
+			Ngô Cẩm Anh - 10 Sinh<br>
+			Hoàng Sinh Hùng - 12 Anh <br>
+			Nguyễn Thuỳ Linh - 10 Văn <br>
+			Đinh Hà Vi - 10 Văn<br>
+			Phạm Minh Trang - 10 Văn<br>
+			Lê Thị Nhung - 12 Tin
+
 		</p>
 		
 		<a href="https://facebook.com/CBHPingPongClub"><i class="fab fa-facebook"></i>     </a><a href="https://instagram.com/CBHPingPong"><i class="fab fa-instagram"></i>     </a> <a href="https://github.com/CBHPingPong/"><i class="fab fa-github"></i></a>
@@ -81,22 +92,5 @@
 		<div id="bg">
 			<img src="/bg.jpg" id="bg" alt="">
 		</div>
-		<script type="text/javascript">
-			function WhoWeAre() {
-				location.href = "/WhoWeAre";
-			}
-			function SignUp() {
-				location.href = "/SignUp";
-			}
-			function Terms() {
-				location.href = "/terms";
-			}
-			function News() {
-				location.href = "/News";
-			}
-			function Photos() {
-				location.href = "/photos";
-			}
-		</script>
 		</center>
 	</body>
