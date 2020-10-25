@@ -83,16 +83,16 @@
 		</div>
 		<script type="text/javascript">
 			function WhoWeAre() {
-				location.href = "/WhoWeAre";
+				location.href = "/whoweare";
 			}
 			function SignUp() {
-				location.href = "/SignUp";
+				location.href = "/signup";
 			}
 			function Terms() {
 				location.href = "/terms";
 			}
 			function News() {
-				location.href = "/News";
+				location.href = "/news";
 			}
 			function Photos() {
 				location.href = "/photos";
