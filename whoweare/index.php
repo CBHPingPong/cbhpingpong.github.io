@@ -73,6 +73,7 @@
 		<h3>Các thành viên:</h3>
 		<p>Dương Tùng Anh - 12 Nga (Chủ tịch CLB)<br>
 			Đinh Hà Vi - 10 Văn (Phó Chủ tịch)<br>
+			Phạm Đức Minh - 11 Hóa (Phó Chủ tịch)<br>
 			Lương Nhân Vượng - 12 Sử Địa<br>
 			Nguyễn Trung Kiên - 12 Sử Địa<br>
 			Trần Hiếu Trung - 10 Nga 
@@ -83,7 +84,10 @@
 			Nguyễn Thuỳ Linh - 10 Văn <br>
 			
 			Phạm Minh Trang - 10 Văn<br>
-			Lê Thị Nhung - 12 Tin
+			Lê Thị Nhung - 12 Tin<br>
+			
+			Đức Trọng - 12 Anh<br>
+			Nguyễn Thuận Nghĩa - 11 Hóa
 
 		</p>
 		
